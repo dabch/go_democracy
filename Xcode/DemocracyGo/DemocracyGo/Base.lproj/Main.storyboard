@@ -60,7 +60,7 @@
             </objects>
             <point key="canvasLocation" x="1106" y="134"/>
         </scene>
-        <!--Party to Go-->
+        <!--GoDemocracy-->
         <scene sceneID="95P-oj-R9s">
             <objects>
                 <tableViewController id="Wj7-pi-fMI" sceneMemberID="viewController">
@@ -111,7 +111,7 @@
                             <outlet property="delegate" destination="Wj7-pi-fMI" id="xRf-SM-CzM"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Party to Go" largeTitleDisplayMode="always" id="ZoB-l6-HMt"/>
+                    <navigationItem key="navigationItem" title="GoDemocracy" largeTitleDisplayMode="always" id="ZoB-l6-HMt"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jaL-5W-sWe" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
