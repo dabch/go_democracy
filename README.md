@@ -5,7 +5,7 @@ Did you ever pass by an election poster and ask yourself what that party or cand
 ![Testing the app](photos/paul3.JPG)
 
 
-Simply scan an election poster with you phone's camera and instantly get information on the party and candidate present on the poster: Their political views and values (from Wikipedia and BR Mediathek), their positions regarding recent news topics (from BR24) and general information about elections and our political system (from BR Alpha).
+Simply scan an election poster with you phone's camera and instantly get information about the party and candidate on the poster: Their political views and values (from Wikipedia and BR Mediathek), their positions regarding recent news topics (from BR24) and general information about elections and our political system (from BR Alpha).
 
 ![Detailed party information](photos/paul2.JPG)
 
